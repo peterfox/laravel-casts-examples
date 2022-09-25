@@ -4,7 +4,7 @@ You can read the article for this on [medium](https://medium.com/@SlyFireFox/lar
 
 ## Sponsors
 
-![Amiqus Logo](https://amiqus.co/assets/img/logos/logo--amiqus.svg)
+![Amiqus Logo](https://amiqus.co/wp-content/uploads/2022/07/logo-amiqus.svg)
 
 If you're looking for a role as a Laravel engineer or just want to be a part of a
 growing start up with awesome people like myself then do browse the [careers page of Amiqus](https://amiqus.co/company/careers).
